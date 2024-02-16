@@ -6,9 +6,9 @@ Here is my repo for my home assistant projects. For now you can find following p
 
 - Blueprints
   - Automations
-    - 
+    - [placeholder](blueprints/automation/sven/placeholder.yaml)
   - Scripts
-    - 
+    - [placeholder](blueprints/script/placeholder.yaml)
    
 If you appreciate my work and support:
 
